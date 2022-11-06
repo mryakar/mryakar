@@ -31,8 +31,8 @@
 </a>
 </p>
   
-### 🤝🏻 &nbsp;Connect with Me
-
+### 🤝&nbsp;Let's Talk
+  
 <p align="center">
 <a href="https://linkedin.com/in/ahmetyakar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/mr_yakar"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
