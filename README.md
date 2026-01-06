@@ -2,9 +2,6 @@
 <h3 align="center">
   Welcome to my profile! It's nice to see you :)
 </h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/clR7WtsbH0vem11caP/giphy.gif"></a>
-</p>
 
 ---
 <div align="center">
