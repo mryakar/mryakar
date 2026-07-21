@@ -7,8 +7,6 @@
 
 <div align="center">
   
-<br>
-  
 ### Wanna talk?
   
 <p align="center">
