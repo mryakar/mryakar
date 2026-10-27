@@ -25,7 +25,7 @@ the articles is in [article-examples](https://github.com/mryakar/article-example
 #### Practice
 
 - [neetcode](https://github.com/mryakar/neetcode): NeetCode 150 in Java, a Spock specification for every problem.
-- [testing-practices](https://github.com/mryakar/testing-practices): a Spring REST service tested layer by layer, slice, unit and integration approaches side by side.
+- [testing-practices](https://github.com/mryakar/testing-practices): A Spring REST service tested layer by layer, slice, unit and integration approaches side by side.
 
 <samp>Java · Kotlin · Spring Boot · PostgreSQL · Spock · Testcontainers · Gradle</samp>
 
