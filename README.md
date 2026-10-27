@@ -6,11 +6,9 @@ payments and ledgers, where correctness is measured in cents.
 
 #### Working on
 
-| | |
-|---|---|
-| [**muster**](https://github.com/mryakar/muster) | Business rules for layered Java apps, checked before the service method runs, inside its transaction. On Maven Central. |
-| [**mizan**](https://github.com/mryakar/mizan) | A double-entry ledger service, built to stay correct under retries and concurrency. In progress. |
-| [**tib-cli**](https://github.com/mryakar/tib-cli) | An idempotent scaffolding CLI for Spring Boot services: run it twice, nothing changes the second time. Early. |
+- [**muster**](https://github.com/mryakar/muster): Business rules for layered Java apps, checked before the service method runs, inside its transaction. On Maven Central.
+- [**mizan**](https://github.com/mryakar/mizan): A double-entry ledger service, built to stay correct under retries and concurrency. In progress.
+- [**tib-cli**](https://github.com/mryakar/tib-cli): An idempotent scaffolding CLI for Spring Boot services: run it twice, nothing changes the second time. Early.
 
 #### Writing
 
@@ -26,8 +24,8 @@ the articles is in [article-examples](https://github.com/mryakar/article-example
 
 #### Practice
 
-[neetcode](https://github.com/mryakar/neetcode): NeetCode 150 in Java, a Spock specification for every problem.
-[testing-practices](https://github.com/mryakar/testing-practices): a Spring REST service tested layer by layer, slice, unit and integration approaches side by side.
+- [neetcode](https://github.com/mryakar/neetcode): NeetCode 150 in Java, a Spock specification for every problem.
+- [testing-practices](https://github.com/mryakar/testing-practices): a Spring REST service tested layer by layer, slice, unit and integration approaches side by side.
 
 <samp>Java · Kotlin · Spring Boot · PostgreSQL · Spock · Testcontainers · Gradle</samp>
 
